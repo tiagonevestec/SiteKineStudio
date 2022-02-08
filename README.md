@@ -1,2 +1,14 @@
 # SiteKineStudio
-Este é o projeto do site Kine Studio de MIcropigmentação e Lash Lifting, um negócio local em Jandira, São Paulo. Nesse projeto desenvolvi desde o nome até o website, redes sociais e tráfego pago.
+PROJETO KINE 
+
+#Design e Comunicação visual
+• Identidade Visual, logo, material de apoio;
+• Decoração de ambiente e personalização de sala;
+
+#Web
+• Site Kine Sutdio responsivo, Plataforma Google sites;
+• Conteúdo: Página Inicial, Procedimentos, Local, Redes e Bio.
+• Páginas de vendas, Copy e tráfego pago;
+• Criativos para Redes Sociais e Anúncios;
+
+Projeto 100% concluído | 21 dias | Operacional: Tiago Neves
