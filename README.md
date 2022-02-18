@@ -13,8 +13,8 @@ PROJETO KINE
 
 Projeto 100% concluído | 21 dias | Operacional: Tiago Neves
 
-Endereço do site para visitação: https://abre.ai/site-kine
+Endereço do site para visitação: https://kinestudio.com.br
 
-Postei aqui  o print de todas as páginas em pdf e também 2 de anúncios já publicados.
+Postei aqui o print de todas as páginas em pdf e também 2 de anúncios já publicados.
 
 Att, Tiago Neves
